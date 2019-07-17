@@ -1,0 +1,43 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="E:/angular-workspace/sma-navi/angular/rsn" />
+        <option value="E:/workspace/ConfigOfJetbrains" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="E:/angular-workspace/sma-navi/angular/rsn" />
+      </list>
+    </option>
+    <option name="lastPath" value="E:/angular-workspace/sma-navi/angular/rsn" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="E:/angular-workspace/sma-navi/angular/rsn">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563351166279" />
+              <option name="buildTimestamp" value="1558944997619" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/workspace/ConfigOfJetbrains">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-191.7479.14" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1563351026347" />
+              <option name="buildTimestamp" value="1558944997619" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

@@ -7,7 +7,7 @@
     <option name="fontSize" value="16" />
   </component>
   <component name="PropertiesComponent">
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6236811" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6349942" />
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="ExpandBeforeRunStepsPanel" value="false" />
@@ -33,8 +33,8 @@
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
     <property name="evlsprt3.191" value="12" />
-    <property name="file.chooser.recent.files" value="E:/angular-workspace/sma-navi/angular/rsn&#10;C:/Users/g10016851&#10;E:/angular-workspace/sma-navi/java/ria&#10;D:/Program Files/apache-tomcat-8.5.43&#10;C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0&#10;C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0/bin&#10;E:/temp&#10;E:/angular-workspace/sma-navi/java/ria/WEB-INF/lib&#10;E:/angular-workspace/sma-navi/java/ria/WEB-INF&#10;C:/Program Files/Java/jdk1.8.0_211&#10;E:/workspace/SpringBootUnity&#10;C:/Program Files/Java/jdk1.8.0_211/bin/jvisualvm.exe&#10;E:/workspace/StudingRecord/java-se-programmer&#10;E:/workspace/blog&#10;C:/Documents and Settings&#10;E:/workspace/StudingRecord&#10;E:/workspace&#10;C:/Program Files/Java/jdk-9.0.4&#10;C:/Users/g10016851/Documents/workspace" />
-    <property name="file.gist.reindex.count" value="98097" />
+    <property name="file.chooser.recent.files" value="E:/workspace/ConfigOfJetbrains&#10;E:/angular-workspace/sma-navi/angular/rsn&#10;C:/Users/g10016851&#10;E:/angular-workspace/sma-navi/java/ria&#10;D:/Program Files/apache-tomcat-8.5.43&#10;C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0&#10;C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0/bin&#10;E:/temp&#10;E:/angular-workspace/sma-navi/java/ria/WEB-INF/lib&#10;E:/angular-workspace/sma-navi/java/ria/WEB-INF&#10;C:/Program Files/Java/jdk1.8.0_211&#10;E:/workspace/SpringBootUnity&#10;C:/Program Files/Java/jdk1.8.0_211/bin/jvisualvm.exe&#10;E:/workspace/StudingRecord/java-se-programmer&#10;E:/workspace/blog&#10;C:/Documents and Settings&#10;E:/workspace/StudingRecord&#10;E:/workspace&#10;C:/Program Files/Java/jdk-9.0.4&#10;C:/Users/g10016851/Documents/workspace" />
+    <property name="file.gist.reindex.count" value="98102" />
     <property name="fileTypeChangedCounter" value="3" />
     <property name="generate_all_setter_count_notify" value="4" />
     <property name="installed.kotlin.plugin.version" value="1.3.21-release-IJ2019.1-3" />

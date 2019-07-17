@@ -14,7 +14,7 @@
     <location key="ProcessPopupWindow.0.0.1920.1200@120dpi" x="1072" y="973" />
     <location key="search.everywhere.popup.0.0.1920.1200@120dpi" x="531" y="22" />
     <location key="new project wizard.0.0.1920.1200@120dpi" x="564" y="0" />
-    <location key="WELCOME_SCREEN.0.0.1920.1200@120dpi" x="963" y="483" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200@120dpi" x="962" y="497" />
     <location key="StructurePopup.0.0.1920.1200@120dpi" x="613" y="226" />
     <location key="CommitChangelistDialog2.0.0.1920.1200@120dpi" x="460" y="62" />
     <location key="Vcs.Push.Dialog.0.0.1920.1200@120dpi" x="558" y="213" />
@@ -29,6 +29,8 @@
     <location key="#Tomcat_Server.0.0.1920.1200@120dpi" x="451" y="156" />
     <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1200@120dpi" x="451" y="156" />
     <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1200@120dpi" x="664" y="452" />
+    <location key="CommitChangelistDialog2.1920.0.1920.1200@120dpi" x="2395" y="78" />
+    <location key="Vcs.Push.Dialog.1920.0.1920.1200@120dpi" x="2478" y="233" />
     <size key="GitCloneDialog.0.0.1920.1200" width="569" height="163" />
     <size key="NewModule_or_Project.wizard.0.0.1920.1200" width="704" height="809" />
     <size key="SettingsEditor.0.0.1920.1200@120dpi" width="1177" height="744" />
