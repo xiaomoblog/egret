@@ -23,6 +23,9 @@
     <property name="SpringBeansModulesPanel[2]" value="0.14064698" />
     <property name="SpringBeansModulesPanel[3]" value="0.16380017" />
     <property name="TrendingPluginsSearchHistory" value="tag:&quot;Tools integration&quot;&#10;GenerateAllSetter&#10;visualv&#10;Material Theme UI&#10;Oceanic theme" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
     <property name="ask.about.ctrl.y.shortcut" value="true" />
     <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
     <property name="com.intellij.remoteServer.impl.runtime.ui.ServersToolWindowContent:com.intellij.remoteServer.impl.runtime.ui.DefaultRemoteServersViewContribution.0" value="300" />
@@ -30,7 +33,7 @@
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="defaultJdkConfigured" value="true" />
     <property name="evlsprt3.191" value="12" />
-    <property name="file.chooser.recent.files" value="E:/angular-workspace/sma-navi/java/ria&#10;D:/Program Files/apache-tomcat-8.5.43&#10;C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0&#10;C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0/bin&#10;E:/temp&#10;E:/angular-workspace/sma-navi/java/ria/WEB-INF/lib&#10;E:/angular-workspace/sma-navi/java/ria/WEB-INF&#10;C:/Program Files/Java/jdk1.8.0_211&#10;E:/workspace/SpringBootUnity&#10;C:/Program Files/Java/jdk1.8.0_211/bin/jvisualvm.exe&#10;E:/workspace/StudingRecord/java-se-programmer&#10;E:/workspace/blog&#10;C:/Documents and Settings&#10;E:/workspace/StudingRecord&#10;E:/workspace&#10;C:/Program Files/Java/jdk-9.0.4&#10;C:/Users/g10016851/Documents/workspace" />
+    <property name="file.chooser.recent.files" value="E:/angular-workspace/sma-navi/angular/rsn&#10;C:/Users/g10016851&#10;E:/angular-workspace/sma-navi/java/ria&#10;D:/Program Files/apache-tomcat-8.5.43&#10;C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0&#10;C:/Program Files (x86)/Apache Software Foundation/Tomcat 6.0/bin&#10;E:/temp&#10;E:/angular-workspace/sma-navi/java/ria/WEB-INF/lib&#10;E:/angular-workspace/sma-navi/java/ria/WEB-INF&#10;C:/Program Files/Java/jdk1.8.0_211&#10;E:/workspace/SpringBootUnity&#10;C:/Program Files/Java/jdk1.8.0_211/bin/jvisualvm.exe&#10;E:/workspace/StudingRecord/java-se-programmer&#10;E:/workspace/blog&#10;C:/Documents and Settings&#10;E:/workspace/StudingRecord&#10;E:/workspace&#10;C:/Program Files/Java/jdk-9.0.4&#10;C:/Users/g10016851/Documents/workspace" />
     <property name="file.gist.reindex.count" value="98097" />
     <property name="fileTypeChangedCounter" value="3" />
     <property name="generate_all_setter_count_notify" value="4" />
