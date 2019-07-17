@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isHighContrast" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabOpacity" value="12" />
+    <option name="userId" value="6aa92abb:16bf9b53232:-8000" />
+    <option name="version" value="3.10.0" />
+  </component>
+</application>

@@ -1,0 +1,59 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1200" x="743" y="164" />
+    <location key="new project wizard.0.0.1920.1200" x="601" y="83" />
+    <location key="GitCloneDialog.0.0.1920.1200" x="693" y="382" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1200" x="624" y="59" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200" x="963" y="463" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200" x="656" y="381" />
+    <location key="SettingsEditor.0.0.1920.1200@120dpi" x="474" y="246" />
+    <location key="find.popup.0.0.1920.1200@120dpi" x="575" y="127" />
+    <location key="#Inspections.0.0.1920.1200@120dpi" x="452" y="135" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1200@120dpi" x="571" y="343" />
+    <location key="FileChooserDialogImpl.0.0.1920.1200@120dpi" x="719" y="335" />
+    <location key="ProcessPopupWindow.0.0.1920.1200@120dpi" x="1072" y="973" />
+    <location key="search.everywhere.popup.0.0.1920.1200@120dpi" x="531" y="22" />
+    <location key="new project wizard.0.0.1920.1200@120dpi" x="564" y="0" />
+    <location key="WELCOME_SCREEN.0.0.1920.1200@120dpi" x="963" y="483" />
+    <location key="StructurePopup.0.0.1920.1200@120dpi" x="613" y="226" />
+    <location key="CommitChangelistDialog2.0.0.1920.1200@120dpi" x="460" y="62" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1200@120dpi" x="558" y="213" />
+    <location key="DiffContextDialog.0.0.1920.1200@120dpi" x="184" y="93" />
+    <location key="#Project_Structure.0.0.1920.1200@120dpi" x="452" y="135" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1200@120dpi" x="762" y="403" />
+    <location key="IDE.errors.dialog.0.0.1920.1200@120dpi" x="437" y="247" />
+    <location key="#VisualVM_Launcher.0.0.1920.1200@120dpi" x="452" y="156" />
+    <location key="RollbackChangesDialog.0.0.1920.1200@120dpi" x="679" y="108" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1200@120dpi" x="771" y="461" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1200@120dpi" x="410" y="226" />
+    <location key="#Tomcat_Server.0.0.1920.1200@120dpi" x="451" y="156" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1200@120dpi" x="451" y="156" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1920.1200@120dpi" x="664" y="452" />
+    <size key="GitCloneDialog.0.0.1920.1200" width="569" height="163" />
+    <size key="NewModule_or_Project.wizard.0.0.1920.1200" width="704" height="809" />
+    <size key="SettingsEditor.0.0.1920.1200@120dpi" width="1177" height="744" />
+    <size key="find.popup.0.0.1920.1200@120dpi" width="770" height="864" />
+    <size key="search.everywhere.popup.0.0.1920.1200@120dpi" width="840" height="1034" />
+    <size key="ProcessPopupWindow.0.0.1920.1200@120dpi" width="500" height="152" />
+    <size key="StructurePopup.0.0.1920.1200@120dpi" width="705" height="655" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="DebuggerActiveHint.0.0.1920.1200@120dpi" width="468" height="601" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages.0.0.1920.1200@120dpi" width="400" height="312" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1200@120dpi" width="1862" height="372" />
+    <size key="FileChooserDialogImpl.0.0.1920.1200@120dpi" width="767" height="563" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1200@120dpi" width="1862" height="302" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1200@120dpi" width="1862" height="302" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1200@120dpi" width="1862" height="302" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1200@120dpi" width="1862" height="302" />
+  </component>
+</application>
